@@ -1,0 +1,14 @@
+C:\Users\paola\source\repos\TradeCategory\TradeCategory\obj\Debug\TradeCategory.csprojResolveAssemblyReference.cache
+C:\Users\paola\source\repos\TradeCategory\TradeCategory\obj\Debug\TradeCategory.csproj.CoreCompileInputs.cache
+C:\Users\paola\source\repos\TradeCategory\TradeCategory\bin\Debug\TradeCategory.exe.config
+C:\Users\paola\source\repos\TradeCategory\TradeCategory\bin\Debug\TradeCategory.exe
+C:\Users\paola\source\repos\TradeCategory\TradeCategory\bin\Debug\TradeCategory.pdb
+C:\Users\paola\source\repos\TradeCategory\TradeCategory\obj\Debug\TradeCategory.exe
+C:\Users\paola\source\repos\TradeCategory\TradeCategory\obj\Debug\TradeCategory.pdb
+C:\Users\paola\source\repos\TradeCategories\TradeCategory\obj\Debug\TradeCategory.csprojResolveAssemblyReference.cache
+C:\Users\paola\source\repos\TradeCategories\TradeCategory\obj\Debug\TradeCategory.csproj.CoreCompileInputs.cache
+C:\Users\paola\source\repos\TradeCategories\TradeCategory\obj\Debug\TradeCategory.exe
+C:\Users\paola\source\repos\TradeCategories\TradeCategory\obj\Debug\TradeCategory.pdb
+C:\Users\paola\source\repos\TradeCategories\TradeCategory\bin\Debug\TradeCategory.exe.config
+C:\Users\paola\source\repos\TradeCategories\TradeCategory\bin\Debug\TradeCategory.exe
+C:\Users\paola\source\repos\TradeCategories\TradeCategory\bin\Debug\TradeCategory.pdb
