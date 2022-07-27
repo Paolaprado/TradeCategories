@@ -26,7 +26,7 @@ namespace TradeCategory.Trades
             this.TradeNumber = TradeNumber;
             //this.PEP = PEP;
 
-            TradeInfo = "Trade " + TradeNumber + " - Value: " + Value + ", Client Sector: " + ClientSector + ", Next Payment Date: " + NextPaymentDate.ToShortDateString();//+", PEP: "+PEP;  
+            TradeInfo = "Trade " + TradeNumber + " - Value: " + Value + ", Client Sector: " + ClientSector + ", Next Payment Date: " + NextPaymentDate.ToString("MM/dd/yyyy");//+", PEP: "+PEP;  
         }
         public override string ToString()
         {
